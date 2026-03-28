@@ -1,0 +1,10 @@
+<header class="topbar topbar--public">
+  <div class="topbar__inner topbar__flex">
+    <a href="index.html" class="logo">MiniSite</a>
+    <nav class="nav">
+      <a href="index.html">Главная</a>
+      <a href="login.jsp">Вход</a>
+      <a href="register.jsp" class="nav__cta">Регистрация</a>
+    </nav>
+  </div>
+</header>

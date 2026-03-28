@@ -1,0 +1,16 @@
+<header class="topbar">
+  <div class="topbar__inner topbar__flex">
+    <a href="profile.jsp" class="logo">MiniSite</a>
+    <nav class="nav">
+      <a href="index.html">Главная</a>
+      <a href="profile.jsp">Профиль</a>
+      <a href="client_cards.jsp">Карточки</a>
+      <a href="media_receipts.jsp">Поступление</a>
+      <a href="media_sales.jsp">Продажа</a>
+      <a href="disk_exchange.jsp">Обмен</a>
+      <a href="exchange_history.jsp">История</a>
+      <a href="reports.jsp">Отчёты</a>
+      <a href="LogoutServlet" class="nav__logout">Выйти</a>
+    </nav>
+  </div>
+</header>
